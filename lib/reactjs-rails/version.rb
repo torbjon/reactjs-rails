@@ -1,4 +1,4 @@
-module Accountingjs
+module Reactjs
   module Rails
     VERSION = "0.0.1"
   end
