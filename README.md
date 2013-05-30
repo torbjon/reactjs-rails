@@ -1,6 +1,6 @@
-# React a JavaScript library for building user interfaces 
+# React a JavaScript library for building user interfaces from Facebook
 
-Provides an easy-to-use Rails 3.1 asset for [React.js](http://facebook.github.io/react/)
+Provides an easy-to-use Rails 3.1 asset for [React](http://facebook.github.io/react/)
 
 # Install
 
