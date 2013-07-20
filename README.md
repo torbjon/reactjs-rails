@@ -4,13 +4,17 @@ Provides an easy-to-use Rails 3.1 asset for [React](http://facebook.github.io/re
 
 # Install
 
-Add it to your Rails application's `Gemfile`:
+Add this line to your application's Gemfile:
 
-```ruby
-gem 'reactjs-rails'
-```
+    gem 'reactjs-rails'
 
-Then `bundle install`.
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install reactjs-rails
 
 
 # Usage
@@ -19,3 +23,11 @@ Add the following to your `app/assets/javascripts/application.js`:
 
     //= require react
     //= require jsxtransformer
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
